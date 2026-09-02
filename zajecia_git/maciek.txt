@@ -1,0 +1,8 @@
+repozytorium - trzyma cały projekt i ma historie
+github - strona to przechowywania kodu w chmurze
+git - przechowuje kod lokalnie
+commit - wprowadzanie zmian
+branch - osobna czesc głownego kodu
+checkout - przenoszenie sie na innego brancha 
+merge - łączenie kodu
+rebase - podmienia commity w danym branchu
